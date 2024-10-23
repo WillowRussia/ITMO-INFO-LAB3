@@ -53,6 +53,9 @@
 
 ![image](https://github.com/WillowRussia/ITMO-INFO-LAB3/blob/main/Assets/image_b.png?raw=true)
 
+
+**4. Тестирование решения.**
+
 Проверяю доступ из машины A в машины B и C:
 ```
 timeout 5 bash -c "</dev/tcp/10.0.2.9/22"
